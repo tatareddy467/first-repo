@@ -1,2 +1,3 @@
 FROM
 RUN
+CMD
